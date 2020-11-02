@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 	
   </div>
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?YeonHeeLee98=anuraghazra&show_icons=true&theme=buefy)
